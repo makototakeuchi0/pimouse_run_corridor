@@ -1,4 +1,4 @@
-!/bin/bash -xve
+#!/bin/bash -xve
 
 #required packeges
 pip install catkin_pkg
