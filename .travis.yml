@@ -1,4 +1,4 @@
-sudo: required
+udo: required
 dist: trusty
 
 script:
